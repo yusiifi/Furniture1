@@ -1,0 +1,65 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    padding: 0;
+    margin: 0;
+    
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+.clear{
+    clear: both;
+}
+.headertop{
+    background-color: #EBF1F0;
+}
+.headertop .leftship{
+    
+    float: left;
+    padding: 15px;
+}
+.headertop .rightship{
+    float: right;
+    padding: 15px;
+}
+.header{
+    text-align: center;
+}
+.header h5{
+    display: inline-block;
+    float: left;
+    padding: 15px 15px;
+    color: #A7B1B0;
+    font-size: 18px;
+}
+.header h2{
+    padding: 5px;
+    display: inline-block;
+    font-size: 30px;
+}
+.header i{
+    float: right;
+    padding: 15px 15px;
+}
+.photo{
+    height: 300px;
+    background: url(image/hero.png);
+    background-size: cover;
+    background-color: #31504D;
+}
+.photo h5{float: left;
+    color: #B1BDBC;
+    font-size: 15px;
+}
+.photo h1{
+    color: #fff;
+    float: left;
+    font-size: 64px;
+}
+
+
