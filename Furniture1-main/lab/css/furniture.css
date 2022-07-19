@@ -1,0 +1,157 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+body{
+    padding: 0;
+    margin: 0;
+    
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+.clear{
+    clear: both;
+}
+.headertop{
+    background-color: #EBF1F0;
+}
+.headertop .leftship{
+    
+    float: left;
+    padding: 15px;
+}
+.headertop .rightship{
+    float: right;
+    padding: 15px;
+}
+.header{
+    text-align: center;
+}
+.header h5{
+    display: inline-block;
+    float: left;
+    padding: 15px 15px;
+    color: #A7B1B0;
+    font-size: 18px;
+}
+.header h2{
+    padding: 5px;
+    display: inline-block;
+    font-size: 30px;
+}
+.header i{
+    float: right;
+    padding: 15px 15px;
+}
+.photo{
+    height: 100vh;
+    background: url(image/hero.png);
+    background-position: right;
+    background-size: 70%;
+    background-repeat: no-repeat;
+    background-color: #31504D;
+}
+.photo h5{
+    
+    color: #B1BDBC;
+    font-size: 15px;
+}
+.photo h1{
+    color: #fff;
+    float: left;
+    font-size: 44px;
+}
+.photo .button1 button{
+    font-size: 20px;
+    margin-top: 200px;
+    margin-right: 50px;
+    
+    padding: 15px 30px;
+    
+}
+.photo .text{
+    float: left;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.whychoose{
+    background-color: #EBF1F0;
+    color: #193532;
+}
+.whychoose .blocks{
+    padding-top: 30px;
+
+}
+.whychoose .block1{
+    padding: 45px;
+    font-size: 30px;
+    display: inline-block;
+    width: 33%;
+}
+.whychoose .block2{
+    padding: 45px;
+    font-size: 30px;
+    display: inline-block;
+    width: 33%;
+}
+.whychoose .block1 h5{
+    font-size: 20px;
+}
+.whychoose .block2 h5{
+    font-size: 20px;
+}
+.whychoose .block3 h5{
+    font-size: 20px;
+}
+.whychoose .block3{
+    padding: 40px;
+    font-size: 30px;
+    display: inline-block;
+    width: 33%;
+}
+.whychoose h1{
+    font-size: 46px;
+    text-align: center;
+}
+.whychoose .photos1 img{
+    color: #829391;
+    display: inline-block;
+    width: 15%;
+    padding: 15px;
+    margin-left: 80px;
+}
+.whychoose .photos2 img{
+    color: #829391;
+    display: inline-block;
+    width: 15%;
+    padding: 15px;
+    margin-left: 130px;
+}
+.Shopby{
+    background-color: #FFFFFF;
+}
+.Shopby h1{
+    padding-top: 60px;
+}
+.Shopby button{
+    margin-top: 25px;
+    margin-left: 620px;
+    padding: 10px 35px;
+    background-color: #fff;
+    
+    color: #193532;
+}
+.Shopby .sekiller1 img{
+    padding-top: 35px;
+    padding-left:135px;
+    width: 30%;
+}
+.Shopby .sekiller2 img{
+    padding-top: 35px;
+    padding-left:135px;
+    width: 30%;
+}
